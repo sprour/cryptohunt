@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to CryptoHunt
+          Welcome to CryptoHunt - the most popular crypto service
         </h1>
       </main>
 
